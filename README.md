@@ -10,3 +10,10 @@
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tishk1n&theme=radical&margin-w=40&margin-h=40" />  
+
+<p align="center">
+ <h2 align="center">My Github Stats</h2>
+
+|My github statistics|Most used languages|Streaks|
+|-|-|-|
+|<img src="https://github-readme-stats.vercel.app/api?username=Tishk1n&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tishk1n&show_icons=true&theme=dark&hide_title=true" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tishk1n&theme=dark" />
