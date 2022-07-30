@@ -1,9 +1,3 @@
-# Чат-Бот для заполнения анкет.
-Телеграм бот, написанный на библиотеке Aiogram для @fransyalapen
-
-### Технологии
-- Python 3.10
-- Aiogram
-- SQLite
-
-## Если у вас есть какие-либо проблемы или вопросы, не стесняйтесь открывать issue или обращаться ко мне напрямую.
+<h1 align="center">Hi there, I'm <a href="https://github.com/Tishk1n?tab=overview&from=2022-06-01&to=2022-06-30/" target="_blank">Rodion</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python developer from Russia 🇷🇺</h3>
