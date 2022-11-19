@@ -1,5 +1,5 @@
 # Русская версия:
-<h1 align="center">Привет, я <a href="https://github.com/Tishk1n?tab=overview&from=2022-06-01&to=2022-06-30/" target="_blank">Родион</a> 
+<h1 align="center">Привет, я <a href="https://github.com/Tishk1n?tab=overview&from=2022-06-01&to=2022-06-30/" target="_blank">Родион в свои 16 лет обосрал Тим Лида</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python разработчик из России 🇷🇺</h3>
 <p>Счетчик просмотров</p>
